@@ -275,7 +275,7 @@ Free to use, implement, and extend — no attribution required.
 
 ## About
 
-ION Format was created on 2026-09-23 by [CosmoSonaflex LC](https://sonaflex.co.kr)  
+ION Format was created on 2026-09-24 by [IonIce, Inc.](https://ionice.hockey)
 as part of the [IonIce](https://ionice.hockey) project.
 
 > *"Hockey data belongs to the players, not the platforms."*
