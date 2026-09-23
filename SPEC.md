@@ -1,8 +1,8 @@
 # ION Format Specification v1.0
 
-**Status:** Draft  
-**Date:** 2026-09-23  
-**Authors:** CosmoSonaflex LC  
+Status: Draft
+Date: 2026-09-24
+Authors: IonIce, Inc.
 
 ---
 
