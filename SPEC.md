@@ -388,5 +388,5 @@ Unambiguous across locales and timezones. Sortable as string.
 
 ---
 
-*ION Format Specification v1.0 — CC0 1.0 Universal*  
-*ionformat.org · github.com/ionformat/spec*
+ION Format Specification v1.0 — CC0 1.0 Universal
+ionformat.org · github.com/ion-format/spec
